@@ -76,6 +76,7 @@
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - 스티커 회전 확대 등
 * [Sharaku](https://github.com/makomori/Sharaku) - 이미지 필터
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - 이미지 다운로드시 중요한 요소 먼저 다운로드하여 흐릿한 이미지를 먼저 보여줌
+* [ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) - 이미지 로딩 캐싱 프레임 워크
 
 ## Color
 [back to top](#readme)
@@ -90,6 +91,7 @@
 * [NZAlertView](https://github.com/NZN/NZAlertView) - 상단 알림창
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) - 팝업 알림창
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - 팝업 알림창
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - 여러 모양의 알림창
 
 ## Chat
 [back to top](#readme)
@@ -103,9 +105,11 @@
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - 다양한 로딩 효과
 * [Pastel](https://github.com/cruisediary/Pastel) - 인스타그램 그라데이션 로그인 창
 * [STLBGVideo](https://github.com/StoneLeon/STLBGVideo) - 로그인창 동영상 백그라운드 효과
+* [material-motion-swift](https://github.com/material-motion/material-motion-swift) - 화면이동 에니메이션 라이브러리
 * [Spring](https://github.com/MengTo/Spring) - 화면이동 에니메이션 라이브러리
 * [Stellar](https://github.com/AugustRush/Stellar) - 화면이동 에니메이션 라이브러리
-* [Hero](https://github.com/HeroTransitions/Hero) - 화면이동 에니메이션 라이브러리 
+* [Hero](https://github.com/HeroTransitions/Hero) - 화면이동 에니메이션 라이브러리
+* [TinyConstraints](https://github.com/roberthein/TinyConstraints) - 화면이동 에니메이션 라이브러리
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - 로딩 물이 차오르는 효과
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - 커스텀 텍스트 입력창
 
