@@ -40,7 +40,8 @@
 [back to top](#readme)
 
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 스크롤 네비게이션바 숨김 처리
-* [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 텝바 페이지 뷰
+* [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 텝바 이동 페이지 뷰
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 텝바 이동 페이지 뷰
 
 ## Menu
 [back to top](#readme)
@@ -58,13 +59,12 @@
 * [MPSkewed](https://github.com/MP0w/MPSkewed) - 스트롤시 움직이는 이미지 테이블 뷰
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - 셀 이미지 확대 효과 뷰
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - 리스트 표시 효과
-
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - 리스트 표시 효과
 
 ## PullToRefresh
 [back to top](#readme)
 
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 물결 효과 리플래시
-
 
 ## Image
 [back to top](#readme)
@@ -102,3 +102,4 @@
 ### Broadcast
 
 * [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - RTMP Push Kit
+* [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) - 플레이어 창 우측 하단 위치
