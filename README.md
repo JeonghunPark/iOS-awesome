@@ -112,6 +112,7 @@
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints) - 화면이동 에니메이션 라이브러리
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - 로딩 물이 차오르는 효과
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - 커스텀 텍스트 입력창
+* [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - 에니메이션, 채팅, 테이블뷰 이동등 통합 라이브러리
 
 ### Broadcast
 
