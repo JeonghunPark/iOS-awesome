@@ -47,7 +47,7 @@
 [back to top](#readme)
 
 * [circle-menu](https://github.com/Ramotion/circle-menu) - 버튼 원형 확장형 메뉴
-* [ExpandingMenu](https://github.com/monoqlo/ExpandingMenu - 세로 확장형 메뉴
+* [ExpandingMenu](https://github.com/monoqlo/ExpandingMenu) - 세로 확장형 메뉴
 
 ## TableView
 [back to top](#readme)
