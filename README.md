@@ -2,21 +2,17 @@
 
 
 ### UI
+- [스플래시 화면]
+- [가이드/튜토리얼]
+- [Navigation]
+- [Menu]
+- [TableView]
+- [PullToRefresh]
+- [Image]
+- [Color]
+### Broadcast
 
-- [UI]
-  - [스플래시 화면]
-  - [가이드/튜토리얼]
-  - [Navigation]
-  - [Menu]
-  - [TableView]
-  - [PullToRefresh]
-  - [Image]
-  - [Color]
-  
-- [Broadcast]
-
-
-## UI
+### UI
 
 ## 스플래시 화면
 [back to top](#readme) 
@@ -63,6 +59,7 @@
 
 * [Chameleon](https://github.com/viccalexander/Chameleon) - ios 색상 프레임워크 쉬운 색상 적용
 
-## Broadcast
+
+### Broadcast
 
 * [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - RTMP Push Kit
