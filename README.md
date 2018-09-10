@@ -42,6 +42,7 @@
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 스크롤 네비게이션바 숨김 처리
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 텝바 이동 페이지 뷰
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 텝바 이동 페이지 뷰
+* [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - 하단 텝바 메뉴
 
 ## Menu
 [back to top](#readme)
