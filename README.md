@@ -87,6 +87,9 @@
 
 * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications) - 다양한 상하단 알림창
 * [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) - 상단 알림창
+* [NZAlertView](https://github.com/NZN/NZAlertView) - 상단 알림창
+* [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) - 팝업 알림창
+* [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - 팝업 알림창
 
 ## Chat
 [back to top](#readme)
@@ -104,6 +107,7 @@
 * [Stellar](https://github.com/AugustRush/Stellar) - 화면이동 에니메이션 라이브러리
 * [Hero](https://github.com/HeroTransitions/Hero) - 화면이동 에니메이션 라이브러리 
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - 로딩 물이 차오르는 효과
+* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - 커스텀 텍스트 입력창
 
 ### Broadcast
 
