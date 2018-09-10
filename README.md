@@ -66,6 +66,7 @@
 [back to top](#readme)
 
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 물결 효과 리플래시
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - 에니메이션 효과
 
 ## Image
 [back to top](#readme)
@@ -74,6 +75,7 @@
 * [FaceAware](https://github.com/BeauNouvelle/FaceAware) - 이미지 얼굴 잘보이게 자동 배치
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - 스티커 회전 확대 등
 * [Sharaku](https://github.com/makomori/Sharaku) - 이미지 필터
+* [Vulcan](https://github.com/jinSasaki/Vulcan) - 이미지 다운로드시 중요한 요소 먼저 다운로드하여 흐릿한 이미지를 먼저 보여줌
 
 ## Color
 [back to top](#readme)
@@ -89,6 +91,7 @@
 ## Chat
 [back to top](#readme)
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - 아래부터 메시지 추가
+* [MessageKit](https://github.com/MessageKit/MessageKit) - iOS 메시지 스타일의 Kit
 
 ## Etc
 [back to top](#readme)
