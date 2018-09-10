@@ -40,7 +40,7 @@
 [back to top](#readme)
 
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 스크롤 네비게이션바 숨김 처리
-
+* [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 텝바 페이지 뷰
 
 ## Menu
 [back to top](#readme)
@@ -54,8 +54,10 @@
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - 데이터 없는 경우 정보 표시
 * [IGListKit](https://github.com/Instagram/IGListKit) - 인스타 그램이 만든 컬렉션뷰 (속도가 빠름) 다양한 리스트
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 테이블뷰셀 스와이프 메뉴
+* [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - 테이블뷰셀 스와이프 메뉴
 * [MPSkewed](https://github.com/MP0w/MPSkewed) - 스트롤시 움직이는 이미지 테이블 뷰
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - 셀 이미지 확대 효과 뷰
+* [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - 리스트 표시 효과
 
 
 ## PullToRefresh
@@ -70,6 +72,7 @@
 * [APNGKit](https://github.com/onevcat/APNGKit) - APNG Kit (PNG 에니메이션 효과)
 * [FaceAware](https://github.com/BeauNouvelle/FaceAware) - 이미지 얼굴 잘보이게 자동 배치
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - 스티커 회전 확대 등
+* [Sharaku](https://github.com/makomori/Sharaku) - 이미지 필터
 
 ## Color
 [back to top](#readme)
@@ -80,6 +83,7 @@
 [back to top](#readme)
 
 * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications) - 다양한 상하단 알림창
+* [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) - 상단 알림창
 
 ## Chat
 [back to top](#readme)
@@ -91,6 +95,9 @@
 * [lottie-ios](https://github.com/airbnb/lottie-ios) - 다양한 컨트롤 에니메시션 효과
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - 다양한 로딩 효과
 * [Pastel](https://github.com/cruisediary/Pastel) - 인스타그램 그라데이션 로그인 창
+* [STLBGVideo](https://github.com/StoneLeon/STLBGVideo) - 로그인창 동영상 백그라운드 효과
+* [Spring](https://github.com/MengTo/Spring) - 화면이동 에니메이션 라이브러리
+* [Stellar](https://github.com/AugustRush/Stellar) - 화면이동 에니메이션 라이브러리
 
 ### Broadcast
 
