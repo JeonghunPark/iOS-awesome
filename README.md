@@ -39,6 +39,7 @@
 ## Navigation
 [back to top](#readme)
 
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 스크롤 네비게이션바 숨김 처리
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 스크롤 네비게이션바 숨김 처리
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 텝바 이동 페이지 뷰
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 텝바 이동 페이지 뷰
