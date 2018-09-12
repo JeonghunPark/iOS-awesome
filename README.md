@@ -43,6 +43,7 @@
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 텝바 이동 페이지 뷰
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 텝바 이동 페이지 뷰
 * [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - 하단 텝바 메뉴
+* [ESTabBarController](https://github.com/eggswift/ESTabBarController) - 하단 텝바 메뉴 스타일
 
 ## Menu
 [back to top](#readme)
