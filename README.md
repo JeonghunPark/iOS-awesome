@@ -81,6 +81,7 @@
 * [Sharaku](https://github.com/makomori/Sharaku) - 이미지 필터
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - 이미지 다운로드시 중요한 요소 먼저 다운로드하여 흐릿한 이미지를 먼저 보여줌
 * [ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) - 이미지 로딩 캐싱 프레임 워크
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView) - 이미지 페이지 뷰
 
 ## Color
 [back to top](#readme)
