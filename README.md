@@ -42,7 +42,8 @@
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 스크롤 네비게이션바 숨김 처리
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 스크롤 네비게이션바 숨김 처리(작동안함)
 * [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - 스크롤 네이게이션바 숨김 처리
-* [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController - 세그먼트 스크롤 뷰
+* [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController) - 세그먼트 스크롤
+* [ScrollableSegmentedControl](https://github.com/GocePetrovski/ScrollableSegmentedControl) - 세그먼트 이미지 텍스트
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 텝바 이동 페이지 뷰
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 텝바 이동 페이지 뷰
 * [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - 하단 텝바 메뉴
