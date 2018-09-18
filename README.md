@@ -74,6 +74,7 @@
 
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 물결 효과 리플래시
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - 에니메이션 효과
+* [CRRefresh](https://github.com/CRAnimation/CRRefresh) - 여러가지 효과
 
 ## Image
 [back to top](#readme)
