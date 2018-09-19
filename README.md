@@ -16,7 +16,8 @@
 
 ### Broadcast
 
-
+### Degin
+* [아이폰 디자인 가이드](https://ivomynttinen.com/blog/ios-design-guidelines)
 
 ### UI
 
@@ -130,6 +131,8 @@
 * [quicktype-xcode](https://github.com/quicktype/quicktype-xcode) - json to swift code 등 변환
 * [Time](https://github.com/dreymonde/Time) - 시간 변환 툴
 
+## log
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 오래됨
 
 ### Broadcast
 
