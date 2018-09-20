@@ -132,7 +132,8 @@
 * [Time](https://github.com/dreymonde/Time) - 시간 변환 툴
 
 ## log
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 오래됨
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
 
 ### Broadcast
 
