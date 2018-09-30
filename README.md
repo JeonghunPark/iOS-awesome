@@ -60,7 +60,7 @@
 ## TableView
 [back to top](#readme)
 
-* [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - 데이터 없는 경우 정보 표시
+* [DZNEmptyDataSet](https://github.com/Xiaoye220/EmptyDataSet-Swift) - 데이터 없는 경우 정보 표시
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - 로딩 & 데이터 없는 경우 표시
 * [IGListKit](https://github.com/Instagram/IGListKit) - 인스타 그램이 만든 컬렉션뷰 (속도가 빠름) 다양한 리스트
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 테이블뷰셀 스와이프 메뉴
