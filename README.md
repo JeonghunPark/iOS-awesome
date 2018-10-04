@@ -124,6 +124,7 @@
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - 로딩 물이 차오르는 효과
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - 커스텀 텍스트 입력창
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - 에니메이션, 채팅, 테이블뷰 이동등 통합 라이브러리
+* [PYSearch](https://github.com/ko1o/PYSearch) - 검색 필터 기능
 
 ## Tool
 [back to top](#readme)
