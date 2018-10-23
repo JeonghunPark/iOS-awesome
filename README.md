@@ -126,6 +126,9 @@
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - 에니메이션, 채팅, 테이블뷰 이동등 통합 라이브러리
 * [PYSearch](https://github.com/ko1o/PYSearch) - 검색 필터 기능
 
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 네트워킹 라이브러리
+* [AFNetworking-AutoRetry](https://github.com/shaioz/AFNetworking-AutoRetry) - AFNetworking 재시도
+
 ## Tool
 [back to top](#readme)
 
@@ -140,3 +143,5 @@
 
 * [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - RTMP Push Kit
 * [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) - 플레이어 창 우측 하단 위치
+
+
