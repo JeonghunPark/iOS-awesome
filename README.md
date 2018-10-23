@@ -128,6 +128,7 @@
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 네트워킹 라이브러리
 * [AFNetworking-AutoRetry](https://github.com/shaioz/AFNetworking-AutoRetry) - AFNetworking 재시도
+* [asi-http-request](https://github.com/pokeb/asi-http-request) - http 통신 라이브러리
 
 ## Tool
 [back to top](#readme)
