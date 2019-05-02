@@ -50,6 +50,7 @@
 * [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - 하단 텝바 메뉴
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) - 하단 텝바 메뉴 스타일
 * [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) - 스티커 헤더 뷰
+* [Parchment](https://github.com/rechsteiner/Parchment) - 세그먼트 스크롤
 
 ## Menu
 [back to top](#readme)
